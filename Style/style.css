@@ -17,10 +17,6 @@ body {
   text-align: center;
 }
 
-#main-header h1 {
-  margin-bottom: 1.5rem;
-}
-
 .btn {
   font: inherit;
   color: #fff;
